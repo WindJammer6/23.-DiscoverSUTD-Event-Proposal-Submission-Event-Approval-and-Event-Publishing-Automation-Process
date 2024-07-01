@@ -6,6 +6,8 @@ as 'freshies'). The goal of this Github repository is to document on how to use 
 publishing, automation process, created by me, for future year's planning committee of SUTD DiscoverSUTD to use to significantly reduce the amount
 of administrative work during the planning process of future DiscoverSUTD events.
 
+<br>
+
 ## Background on SUTD's DiscoverSUTD
 The SUTD's DiscoverSUTD event consists of a series of mandatory events organised by SUTD school leaders and introductory sessions organised by clubs and 
 interest groups in SUTD that 'freshies' can sign up and participate in.
@@ -14,11 +16,17 @@ As part of the DiscoverSUTD planning committee in 2024, I have created this Disc
 that allows developers to automate workflows) that aims to automate the process of event proposal submissions by clubs and interest groups, event approval 
 by the SUTD'S Office of Student Activities (OSA), and event publishing to the general SUTD student body.
 
+<br>
 
-## Why this SUTD's DiscoverSUTD Event Proposal Submission, Event Approval, and Event Publishing Automation Process helps
+## Why this SUTD's DiscoverSUTD Event Proposal Submission, Event Approval, and Event Publishing Automation Process helps?
 Prior to my batch of DiscoverSUTD planning committee in 2024, there was no existing automation process for the event proposal submissions by clubs and interest groups, event approval 
 by the SUTD'S Office of Student Activities (OSA), and event publishing to the general SUTD student body, making the planning process for past DiscoverSUTD events
-a very manual process, from having to 
+a very manual process, such as getting event proposal submissions form from clubs and interest groups
+
+<br>
+
+## How to use this SUTD's DiscoverSUTD Event Proposal Submission, Event Approval, and Event Publishing Automation Process?
+Here's the important part.
 
 
 to automate thr
