@@ -49,4 +49,11 @@ Step 2: Whenever a SUTD interest groups and clubs submit an event proposal, the 
 
 Step 3: (To be done by SUTD OSA) There is a column in the 'All Events' sheet in the  [DiscoverSUTD Event Database/Google Sheets for Event Approval/Disapproval by OSA](), with the header 'Approved/Not approved', which SUTD OSA will select either the option 'Approved' or 'Not approved' after vetting through the event proposal details. There is also another column in the 'All Events' sheet in the [DiscoverSUTD Event Database/Google Sheets for Event Approval/Disapproval by OSA]() with the header 'Reason (if Not Approved)', which SUTD OSA can put a reasoning for not approving a particular event proposal.
 
-Step 4: (To be done by a DiscoverSUTD planning committee member) There is a 
+Step 4: (To be done by a DiscoverSUTD planning committee member) Once OSA has finished vetting through all the event proposals in the 'All Events' sheet in the [DiscoverSUTD Event Database/Google Sheets for Event Approval/Disapproval by OSA](), a DiscoverSUTD planning committee member will need to manually transfer the event details of the approved events to the other 'Approved Events' sheet in the [DiscoverSUTD Event Database/Google Sheets for Event Approval/Disapproval by OSA]().
+
+Step 5: Once the event details of the approved events are transferred to the 'Approved Events sheet in the [DiscoverSUTD Event Database/Google Sheets for Event Approval/Disapproval by OSA](), the event details (including the date, time, location, sign up form, etc.) will be automatically updated to this [DiscoverSUTD Event Publishing Notion Calender to the general SUTD student body]() link
+
+Step 6: Send another mass email to the general SUTD student body, with this [DiscoverSUTD Event Publishing Notion Calender to the general SUTD student body]() link
+
+
+To reset it, simply wipe all the data from the Notion database and Google sheets can alr
