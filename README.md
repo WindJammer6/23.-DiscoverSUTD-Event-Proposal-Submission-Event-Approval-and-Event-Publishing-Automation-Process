@@ -23,7 +23,7 @@ by the SUTD'S Office of Student Activities (OSA), and event publishing to the ge
 ## Why this SUTD's DiscoverSUTD Event Proposal Submission, Event Approval, and Event Publishing Automation Process helps?
 Prior to my batch of DiscoverSUTD planning committee in 2024, there was no existing automation process for the event proposal submissions by clubs and interest groups, event approval 
 by the SUTD'S Office of Student Activities (OSA), and event publishing to the general SUTD student body, making the planning process for past DiscoverSUTD events a very manual process, such as:  
-1. Getting event proposal submissions form from clubs and interest groups via [Tally form](https://tally.so/))
+1. Getting event proposal submissions form from clubs and interest groups via [Tally form](https://tally.so/)
 2. Manually inputting the event details into [Google sheets](https://workspace.google.com/intl/en_sg/products/sheets/) for the OSA to approve/disapprove
 3. Manually inputting the details of the approved events into a [Notion](https://www.notion.so/) calender to publish the approved event details to the general SUTD student body
 
