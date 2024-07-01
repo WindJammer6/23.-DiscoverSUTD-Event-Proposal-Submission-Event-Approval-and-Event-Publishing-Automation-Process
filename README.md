@@ -51,7 +51,13 @@ Step 3: (To be done by SUTD OSA) There is a column in the 'All Events' sheet in 
 
 Step 4: (To be done by a DiscoverSUTD planning committee member) Once OSA has finished vetting through all the event proposals in the 'All Events' sheet in the [DiscoverSUTD Event Database/Google Sheets for Event Approval/Disapproval by OSA](), a DiscoverSUTD planning committee member will need to manually transfer the event details of the approved events to the other 'Approved Events' sheet in the [DiscoverSUTD Event Database/Google Sheets for Event Approval/Disapproval by OSA]().
 
-Step 5: Once the event details of the approved events are transferred to the 'Approved Events sheet in the [DiscoverSUTD Event Database/Google Sheets for Event Approval/Disapproval by OSA](), the event details (including the date, time, location, sign up form, etc.) will be automatically updated to this [DiscoverSUTD Event Publishing Notion Calender to the general SUTD student body]() link
+(IMPORTANT NOTE: Zapier is designed to detect new rows in Google Sheets, but it's important to understand that Zapier detects new rows based on their addition to the sheet, not on their content. Deleting and re-entering data in the same row won't trigger the automation process because Zapier tracks rows by their unique IDs, which don't change when you modify the content. 
+
+Basically, PLEASE BE VERY SURE WHEN YOU ADD AN APPROVED EVENT IN THE 'APPROVED EVENTS' SHEET AS ONCE THE EVENT DETAILS OF AN APPROVED EVENT IS ADDED, ITS DETAILS WILL BE AUTOMATICALLY UPDATED TO THE NOTION CALENDER (ITS A NON REVERSIBLE PROCESS, AND YOU MIGHT NEED TO MODIFY THAT APPROVED EVENT MANUALLY IN THE [DiscoverSUTD Event Publishing Notion Calender to the general SUTD student body]() LINK! 
+
+ALSO DO NOT DELETE ANY ROWS IN ONCE IT IS ADDED INTO THE GOOGLE SHEET
+
+Step 5: Once the event details of the approved events are transferred to the 'Approved Events sheet in the [DiscoverSUTD Event Database/Google Sheets for Event Approval/Disapproval by OSA](), the event details (including the date, time, location, sign up form, etc.) will be automatically updated to this [DiscoverSUTD Event Publishing Notion Calender to the general SUTD student body]() link (this uploading process might take 3 to 15 minutes)
 
 Step 6: Send another mass email to the general SUTD student body, with this [DiscoverSUTD Event Publishing Notion Calender to the general SUTD student body]() link
 
