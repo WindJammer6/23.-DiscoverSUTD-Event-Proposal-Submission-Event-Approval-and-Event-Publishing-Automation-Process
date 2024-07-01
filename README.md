@@ -37,15 +37,16 @@ Here's the important part. (I promise its not difficult to use, even for non-dev
 **In order to use this SUTD's DiscoverSUTD Event Proposal Submission, Event Approval, and Event Publishing Automation Process, and to access the following important links, you need to have access to the SUTD's DiscoverSUTD email. For security reasons, I will not be sharing the login details here. If you are a SUTD DiscoverSUTD planning committee member, you need to check with the SUTD's OSA for the login details for the SUTD's DiscoverSUTD email**  
 Here are the important links:  
 DiscoverSUTD Event Proposal Submission by clubs and interest groups Tally form:
-DiscoverSUTD Event Database/Google Sheets for Event Approval/Disapproval by OSA: 
+DiscoverSUTD Event Database/Google Sheets for Event Approval/Disapproval by OSA: (there are 2 sheets in this Google Sheets, titled 'All Events' and 'Approved Events')
 DiscoverSUTD Event Publishing Notion Calender to the general SUTD student body:   (this link will be shared to the general SUTD student body, so they know when are the approved events during DiscoverSUTD)
 DiscoverSUTD Zapier Automation workflow: (where you can view how the automation process between the Tally form, Google Sheets and Notion, is done. Only I have access to this DiscoverSUTD Zapier Automation workflow, I did not give access for this to the SUTD's DisoverSUTD email)
 
 
-Here's how to use the SUTD's DiscoverSUTD Event Proposal Submission, Event Approval, and Event Publishing Automation Process:
-Step 1: Send a mass email to the SUTD interest groups and clubs, with this [DiscoverSUTD Event Proposal Submission by clubs and interest groups Tally form]() link 
+Here's how to use the SUTD's DiscoverSUTD Event Proposal Submission, Event Approval, and Event Publishing Automation Process:  
+Step 1: Send a mass email to the SUTD interest groups and clubs, with this [DiscoverSUTD Event Proposal Submission by clubs and interest groups Tally form]() link  
 
-Step 2: Whenever a SUTD interest groups and clubs submit an event proposal, the event details will be automatically added to the following [DiscoverSUTD Event Database/Google Sheets for Event Approval/Disapproval by OSA]()
+Step 2: Whenever a SUTD interest groups and clubs submit an event proposal, the event details will be automatically added to the 'All Events' sheet in the [DiscoverSUTD Event Database/Google Sheets for Event Approval/Disapproval by OSA]()
 
-Step 3: There is a column in the [DiscoverSUTD Event Database/Google Sheets for Event Approval/Disapproval by OSA]() SUTD OSA will then 
+Step 3: (To be done by SUTD OSA) There is a column in the 'All Events' sheet in the  [DiscoverSUTD Event Database/Google Sheets for Event Approval/Disapproval by OSA](), with the header 'Approved/Not approved', which SUTD OSA will select either the option 'Approved' or 'Not approved' after vetting through the event proposal details. There is also another column in the 'All Events' sheet in the [DiscoverSUTD Event Database/Google Sheets for Event Approval/Disapproval by OSA]() with the header 'Reason (if Not Approved)', which SUTD OSA can put a reasoning for not approving a particular event proposal.
 
+Step 4: (To be done by a DiscoverSUTD planning committee member) There is a 
