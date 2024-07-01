@@ -26,7 +26,7 @@ a very manual process, such as getting event proposal submissions form from club
 <br>
 
 ## How to use this SUTD's DiscoverSUTD Event Proposal Submission, Event Approval, and Event Publishing Automation Process?
-Here's the important part.
+Here's the important part. I promise its not difficult to use, even for not developers. (you just need to know how to use [Google Sheets](https://workspace.google.com/intl/en_sg/products/sheets/)
 
 
 to automate thr
