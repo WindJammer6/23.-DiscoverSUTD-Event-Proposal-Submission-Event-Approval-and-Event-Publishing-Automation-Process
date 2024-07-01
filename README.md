@@ -32,7 +32,7 @@ But with this SUTD's DiscoverSUTD Event Proposal Submission, Event Approval, and
 <br>
 
 ## How to use this SUTD's DiscoverSUTD Event Proposal Submission, Event Approval, and Event Publishing Automation Process?
-Here's the important part. (I promise its not difficult to use, even for non-developers. (you just need to know how to use [Google Sheets](https://workspace.google.com/intl/en_sg/products/sheets/)))
+Here's the important part. (I promise its not difficult to use, even for non-developers.
 
 **In order to use this SUTD's DiscoverSUTD Event Proposal Submission, Event Approval, and Event Publishing Automation Process, and to access the following important links, you need to have access to the SUTD's DiscoverSUTD email. For security reasons, I will not be sharing the login details here. If you are a SUTD DiscoverSUTD planning committee member, you need to check with the SUTD's OSA for the login details for the SUTD's DiscoverSUTD email**  
 Here are the important links:  
