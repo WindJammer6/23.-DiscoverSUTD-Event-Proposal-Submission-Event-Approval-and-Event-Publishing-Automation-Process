@@ -55,5 +55,8 @@ Step 5: Once the event details of the approved events are transferred to the 'Ap
 
 Step 6: Send another mass email to the general SUTD student body, with this [DiscoverSUTD Event Publishing Notion Calender to the general SUTD student body]() link
 
+Step 7: (To be done by a DiscoverSUTD planning committee member) Once DiscoverSUTD is over, please remember to erase all the data in the 2 sheets of the [DiscoverSUTD Event Database/Google Sheets for Event Approval/Disapproval by OSA](), and the [DiscoverSUTD Event Publishing Notion Calender to the general SUTD student body]()'s database. This step is to reset the entire DiscoverSUTD Event Proposal Submission, Event Approval, and Event Publishing Automation Process for the next year of DiscoverSUTD planning committee to use!
 
-To reset it, simply wipe all the data from the Notion database and Google sheets can alr
+You may choose to make a copy of the 2 sheets of the [DiscoverSUTD Event Database/Google Sheets for Event Approval/Disapproval by OSA](), and the [DiscoverSUTD Event Publishing Notion Calender to the general SUTD student body]()'s database if you wish to save a copy. But remember not to modify the original 2 sheets of the [DiscoverSUTD Event Database/Google Sheets for Event Approval/Disapproval by OSA](), and the [DiscoverSUTD Event Publishing Notion Calender to the general SUTD student body]()'s database or it may mess up the entire automation process!
+
+If there is any queries on this SUTD's DiscoverSUTD Event Proposal Submission, Event Approval, and Event Publishing Automation Process, feel free to reach out to me :)
