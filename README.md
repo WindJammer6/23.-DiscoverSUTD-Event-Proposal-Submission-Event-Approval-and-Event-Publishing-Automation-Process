@@ -34,7 +34,9 @@ But with this SUTD's DiscoverSUTD Event Proposal Submission, Event Approval, and
 Here's the important part. (I promise its not difficult to use, even for non-developers)
 
 Here are the important links:  
-- <img src="https://tse4.mm.bing.net/th?id=OIP._p_mtE51iPbuFkDKjzL3oQHaHa&pid=Api&P=0&h=180" width="50" height="50"> Event Proposal Submission by clubs and interest groups Tally form: https://tally.so/r/n9qB0E
+- <img src="https://tse4.mm.bing.net/th?id=OIP._p_mtE51iPbuFkDKjzL3oQHaHa&pid=Api&P=0&h=180" width="50" height="50"> Event Proposal Submission by clubs and interest groups Tally form: https://tally.so/r/n9qB0E  
+  (DO NOT EDIT THIS TALLY FORM! THE AUTOMATED PROCESS USING ZAPIER WILL BE MESSED UP!)
+
 - <img src="https://2.bp.blogspot.com/-hBfU2YnPnuc/WimJErMCwKI/AAAAAAAADrg/sWP4nS1jSB0toeYCa0KXSsfuFal1ZMgGQCLcBGAs/s1600/google-sheets-icon.png" width="50" height="50"> Event Approval/Disapproval (by OSA) Database/Google Sheets: --in progress--  
   (there are 2 sheets in this Google Sheets, titled 'All Events' and 'Approved Events')
 - [![My Skills](https://skillicons.dev/icons?i=notion)](https://skillicons.dev) Event Publishing Notion Calender to the general SUTD student body: https://www.notion.so/discoversutd/DSUTD2024-8b5b48bb985b4e9abf1979ca635ea890  
