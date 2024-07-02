@@ -51,7 +51,7 @@ Here are the important links:
 
 <br>
 
-## Here's how to use the SUTD's DiscoverSUTD Event Proposal Submission, Event Approval, and Event Publishing Automation Process:  
+## Here's how to use the SUTD's DiscoverSUTD Event Proposal Submission, Event Approval, and Event Publishing Automation Process, step by step:  
 - Step 1: Send a mass email to the SUTD interest groups and clubs, with this [DiscoverSUTD Event Proposal Submission by clubs and interest groups Tally form](https://tally.so/r/n9qB0E) link  
   <img src="https://tse4.mm.bing.net/th?id=OIP._p_mtE51iPbuFkDKjzL3oQHaHa&pid=Api&P=0&h=180" width="50" height="50">
 
