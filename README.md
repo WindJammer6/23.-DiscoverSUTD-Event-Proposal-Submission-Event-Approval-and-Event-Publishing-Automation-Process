@@ -1,6 +1,8 @@
 # SUTD's DiscoverSUTD Event Proposal Submission, Event Approval, and Event Publishing Automation Process
 This Github repository is mainly for the planning committee and Office of Student Activities (OSA) of Singapore University of Technology and Design (SUTD)'s DiscoverSUTD, an annual event of SUTD that spans for the first 4 weeks after every matriculation day each year for new SUTD students to the school (who are also termed as 'freshies'). The goal of this Github repository is to document on how to use this DiscoverSUTD event proposal submission, event approval and event publishing, automation process, created by me ([Goh Jet Wei's Github account](https://github.com/WindJammer6)), for future year's planning committee of SUTD DiscoverSUTD to use to significantly reduce the amount of administrative work during the planning process of future DiscoverSUTD events.
 
+This SUTD's DiscoverSUTD Event Proposal Submission, Event Approval, and Event Publishing Automation Process is currently deployed and is running.
+
 <br>
 
 ## Background on SUTD's DiscoverSUTD
