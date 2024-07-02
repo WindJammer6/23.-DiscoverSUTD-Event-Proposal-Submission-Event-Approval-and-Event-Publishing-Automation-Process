@@ -8,8 +8,9 @@ of administrative work during the planning process of future DiscoverSUTD events
 <br>
 
 ## Background on SUTD's DiscoverSUTD
-
-discover sutd logo here 
+<p align="center"> 
+  <img src="https://github.com/WindJammer6/DiscoverSUTD-Automation/blob/main/Image_of_SUTD_DiscoverSUTD_logo.png" width="450" height="300">
+</p>
 
 The SUTD's DiscoverSUTD event consists of a series of mandatory events organised by SUTD school leaders and introductory sessions organised by clubs and 
 interest groups in SUTD that 'freshies' can sign up and participate in.
@@ -40,7 +41,12 @@ Here are the important links:
   (there are 2 sheets in this Google Sheets, titled 'All Events' and 'Approved Events')
 - [![My Skills](https://skillicons.dev/icons?i=notion)](https://skillicons.dev) Event Publishing Notion Calender to the general SUTD student body: https://www.notion.so/discoversutd/DSUTD2024-8b5b48bb985b4e9abf1979ca635ea890  
   (this link will be shared to the general SUTD student body, so they know when are the approved events during DiscoverSUTD)
-- <img src="https://cdn.freebiesupply.com/logos/large/2x/zapier-logo-png-transparent.png" width="50" height="50"> Zapier Automation workflow:  
+- <img src="https://cdn.freebiesupply.com/logos/large/2x/zapier-logo-png-transparent.png" width="50" height="50"> Zapier Automation workflow:
+  - https://zapier.com/editor/244057241/published (titled: 'ROOT DSUTD (updating approved events from Google Sheets to Notion')
+  - https://zapier.com/editor/240537822/published (titled: 'ROOT DSUTD (updating Tally form details to Google sheet) (session 1)')
+  - https://zapier.com/editor/245337155/published (titled: 'ROOT DSUTD (updating Tally form details to Google sheet) (session 2)')
+  - https://zapier.com/editor/245424613/published (titled: 'ROOT DSUTD (updating Tally form details to Google sheet) (session 3)')
+  - https://zapier.com/editor/245425407/published (titled: 'ROOT DSUTD (updating Tally form details to Google sheet) (session 4)')  
   (where you can view how the automation process between the Tally form, Google Sheets and Notion, is done. Only I have access to this DiscoverSUTD Zapier Automation workflow, I did not give access for this to the SUTD's DisoverSUTD email)
 
 **In order to use this SUTD's DiscoverSUTD Event Proposal Submission, Event Approval, and Event Publishing Automation Process, and to access the following important links, you need to have access to the SUTD's DiscoverSUTD email. For security reasons, I will not be sharing the login details here. If you are a SUTD DiscoverSUTD planning committee member, you need to check with the SUTD's OSA for the login details for the SUTD's DiscoverSUTD email!**  
@@ -48,8 +54,8 @@ Here are the important links:
 <br>
 
 ## Here's how to use the SUTD's DiscoverSUTD Event Proposal Submission, Event Approval, and Event Publishing Automation Process:  
-Step 1: Send a mass email to the SUTD interest groups and clubs, with this [DiscoverSUTD Event Proposal Submission by clubs and interest groups Tally form](https://tally.so/r/n9qB0E) link  
-<img src="https://tse4.mm.bing.net/th?id=OIP._p_mtE51iPbuFkDKjzL3oQHaHa&pid=Api&P=0&h=180" width="50" height="50">
+- Step 1: Send a mass email to the SUTD interest groups and clubs, with this [DiscoverSUTD Event Proposal Submission by clubs and interest groups Tally form](https://tally.so/r/n9qB0E) link  
+  <img src="https://tse4.mm.bing.net/th?id=OIP._p_mtE51iPbuFkDKjzL3oQHaHa&pid=Api&P=0&h=180" width="50" height="50">
 
 - Step 2: Whenever a SUTD interest groups and clubs submit an event proposal, the event details will be automatically added to the 'All Events' sheet in the [DiscoverSUTD Event Database/Google Sheets for Event Approval/Disapproval by OSA]()  
 <img src="https://tse4.mm.bing.net/th?id=OIP._p_mtE51iPbuFkDKjzL3oQHaHa&pid=Api&P=0&h=180" width="50" height="50"> -> <img src="https://2.bp.blogspot.com/-hBfU2YnPnuc/WimJErMCwKI/AAAAAAAADrg/sWP4nS1jSB0toeYCa0KXSsfuFal1ZMgGQCLcBGAs/s1600/google-sheets-icon.png" width="50" height="50">
@@ -58,7 +64,7 @@ Step 1: Send a mass email to the SUTD interest groups and clubs, with this [Disc
 
 - Step 4: (To be done by a DiscoverSUTD planning committee member) Once OSA has finished vetting through all the event proposals in the 'All Events' sheet in the [DiscoverSUTD Event Database/Google Sheets for Event Approval/Disapproval by OSA](), a DiscoverSUTD planning committee member will need to manually transfer the event details of the approved events to the other 'Approved Events' sheet in the [DiscoverSUTD Event Database/Google Sheets for Event Approval/Disapproval by OSA]().
 
-  IMPORTANT NOTES FOR STEP 4:
+  **IMPORTANT NOTES FOR STEP 4:**
   - Zapier is designed to detect new rows in Google Sheets, but it's important to understand that Zapier detects new rows based on their addition to the sheet, not on their content. Deleting and re-entering data in the same row won't trigger the automation process because Zapier tracks rows by their unique IDs, which don't change when you modify the content. BASICALLY, PLEASE DO NOT DELETE ANY ROWS ONCE IT IS ADDED INTO THE GOOGLE SHEETS! YOU CAN JUST ERASE THAT UPLOADED EVENT IN THE [DiscoverSUTD Event Publishing Notion Calender to the general SUTD student body](https://www.notion.so/discoversutd/DSUTD2024-8b5b48bb985b4e9abf1979ca635ea890) AS DELETING AND RE-ENTERING DATA IN THE SAME ROW WON'T TRIGGER THE AUTOMATION PROCESS!
 
   - ALSO, PLEASE BE VERY SURE WHEN YOU ADD AN APPROVED EVENT IN THE 'APPROVED EVENTS' SHEET AS ONCE THE EVENT DETAILS OF AN APPROVED EVENT IS ADDED, ITS DETAILS WILL BE AUTOMATICALLY UPDATED TO THE NOTION CALENDER (ITS A NON REVERSIBLE PROCESS, AND YOU MIGHT NEED TO MODIFY THAT APPROVED EVENT MANUALLY IN THE [DiscoverSUTD Event Publishing Notion Calender to the general SUTD student body](https://www.notion.so/discoversutd/DSUTD2024-8b5b48bb985b4e9abf1979ca635ea890) LINK IF YOU WANT TO MAKE ANY CHANGES!
