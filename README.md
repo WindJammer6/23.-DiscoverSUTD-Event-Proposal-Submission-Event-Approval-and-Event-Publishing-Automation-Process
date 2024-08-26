@@ -106,4 +106,4 @@ Luckily, even with the free plan it resets every month, so when I exceeded the n
 
 Source: https://zapier.com/pricing?utm_source=google&utm_medium=cpc&utm_campaign=gaw-row-nua-evr-search_brand_alldev_prospecting_long-tail_d2-ads&utm_term=zapier%20plans&utm_content=9066672&utm_ads_campaign_id=20557914454&utm_ads_adset_id=148745687490&utm_ads_ad_id=673971565677&gad_source=1&gclid=Cj0KCQjwz7C2BhDkARIsAA_SZKZzYN3tgB8lokB0A7jICgdcD-mXzIyIQQKR3FNVFIzg8cPc7ygOAPwaAv14EALw_wcB (Zapier) (Zapier's pricing and rates)
 
-rmb to 'lock' the database somehow after it's done? to prevent anyone from messing with it especially the column headers? and also need to remind them not to tamper and edit the Tally form
+rmb to 'lock' the database somehow after it's done? to prevent anyone from messing with it especially the column headers? and also need to remind them not to tamper and edit the Tally form. maybe set it as the first thing to mention in this repo，which is to not mess with any of the files if they don't know Zapier and what they are doing!!
