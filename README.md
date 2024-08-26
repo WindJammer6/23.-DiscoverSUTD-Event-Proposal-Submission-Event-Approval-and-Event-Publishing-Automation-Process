@@ -86,3 +86,22 @@ video demo here
 <br>
 
 If there is any queries on this SUTD's DiscoverSUTD Event Proposal Submission, Event Approval, and Event Publishing Automation Process, feel free to reach out to me :)
+
+<br>
+
+I was using the Zapier free plan (didn't want to pay for it), which has the following plan:  
+(I did run into problems of Zapier exceeding the limit and cause some of rhe event proposals to not be submitted and had to do it manually myself... what a nightmare... so make sure you keep track! and this automated process will only work if there is less than a 100 actions per month!)
+
+Zapier's run limits vary depending on the subscription plan you have. As of my last update:
+
+- **Free Plan**: 100 tasks per month
+- **Starter Plan**: 750 tasks per month
+- **Professional Plan**: 2,000 tasks per month
+- **Team Plan**: 50,000 tasks per month
+- **Company Plan**: 100,000 tasks per month
+
+These limits are subject to change, so I recommend checking Zapier's official website for the most up-to-date information. 
+
+Luckily, even with the free plan it resets every month, so when I exceeded the number of actions per month I just had to keep manually updating until the next update where I got 100 more free actions and the automation process worked again...
+
+Source: https://zapier.com/pricing?utm_source=google&utm_medium=cpc&utm_campaign=gaw-row-nua-evr-search_brand_alldev_prospecting_long-tail_d2-ads&utm_term=zapier%20plans&utm_content=9066672&utm_ads_campaign_id=20557914454&utm_ads_adset_id=148745687490&utm_ads_ad_id=673971565677&gad_source=1&gclid=Cj0KCQjwz7C2BhDkARIsAA_SZKZzYN3tgB8lokB0A7jICgdcD-mXzIyIQQKR3FNVFIzg8cPc7ygOAPwaAv14EALw_wcB (Zapier) (Zapier's pricing and rates)
