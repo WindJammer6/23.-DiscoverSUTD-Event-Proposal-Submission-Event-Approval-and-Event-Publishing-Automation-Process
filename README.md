@@ -58,6 +58,8 @@ Here are the important links:
 
 video demo here
 
+The video shows a demonstration of how the 'SUTD's DiscoverSUTD Event Proposal Submission, Event Approval, and Event Publishing Automation Process' looks like. Done by me using [OBS Studio software](https://obsproject.com/) for screen recording and [VideoPad Video Editor](https://www.nchsoftware.com/videopad/index.html) (by NCH Software) for video editing.
+
 
 - Step 1: Send a mass email to the SUTD interest groups and clubs, with this [DiscoverSUTD Event Proposal Submission by clubs and interest groups Tally form link](https://tally.so/r/n9qB0E)  
   <img src="https://tse4.mm.bing.net/th?id=OIP._p_mtE51iPbuFkDKjzL3oQHaHa&pid=Api&P=0&h=180" width="50" height="50">
