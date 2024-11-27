@@ -31,11 +31,10 @@ But with this SUTD's DiscoverSUTD Event Proposal Submission, Event Approval, and
 <br>
 
 ## How to use this SUTD's DiscoverSUTD Event Proposal Submission, Event Approval, and Event Publishing Automation Process?
-Here's the important part. (I promise its not difficult to use, even for non-developers)
+Here's the important part. (I promise its not difficult to use, even for non-developers) 
 
 Here are the important links:  
 - <img src="https://tse4.mm.bing.net/th?id=OIP._p_mtE51iPbuFkDKjzL3oQHaHa&pid=Api&P=0&h=180" width="50" height="50"> Event Proposal Submission by clubs and interest groups Tally form: https://tally.so/r/n9qB0E  
-  (DO NOT EDIT THIS TALLY FORM! THE AUTOMATED PROCESS USING ZAPIER WILL BE MESSED UP!)
 
 - <img src="https://2.bp.blogspot.com/-hBfU2YnPnuc/WimJErMCwKI/AAAAAAAADrg/sWP4nS1jSB0toeYCa0KXSsfuFal1ZMgGQCLcBGAs/s1600/google-sheets-icon.png" width="50" height="50"> Event Approval/Disapproval (by OSA) Database/Google Sheets: https://docs.google.com/spreadsheets/d/19HqnLRRmdiZY0t3JtomK-DJ5lB5C2w9WwQqat5UyV4E/edit?gid=1411928349#gid=1411928349
   (there are 2 sheets in this Google Sheets, titled 'All Events' and 'Approved Events')
@@ -106,6 +105,3 @@ Fortunately, even with the free plan the limit of 100 tasks per zap resets every
   - **Company Plan**: 100,000 tasks per month
   ```
   These limits are subject to change, so I recommend checking [Zapier](https://zapier.com/)'s official website here: https://zapier.com/pricing?utm_source=google&utm_medium=cpc&utm_campaign=gaw-row-nua-evr-search_brand_alldev_prospecting_long-tail_d2-ads&utm_term=zapier%20plans&utm_content=9066672&utm_ads_campaign_id=20557914454&utm_ads_adset_id=148745687490&utm_ads_ad_id=673971565677&gad_source=1&gclid=Cj0KCQjwz7C2BhDkARIsAA_SZKZzYN3tgB8lokB0A7jICgdcD-mXzIyIQQKR3FNVFIzg8cPc7ygOAPwaAv14EALw_wcB ([Zapier](https://zapier.com/)'s pricing and rates) for the most up-to-date information. 
-
-
-rmb to 'lock' the database somehow after it's done? to prevent anyone from messing with it especially the column headers? and also need to remind them not to tamper and edit the Tally form. maybe set it as the first thing to mention in this repo，which is to not mess with any of the files if they don't know Zapier and what they are doing!!
