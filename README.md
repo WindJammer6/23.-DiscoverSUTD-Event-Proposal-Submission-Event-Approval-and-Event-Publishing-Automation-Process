@@ -60,7 +60,7 @@ Here are the important links:
 video demo here
 
 
-- Step 1: Send a mass email to the SUTD interest groups and clubs, with this DiscoverSUTD Event Proposal Submission by clubs and interest groups Tally form [link](https://tally.so/r/n9qB0E)  
+- Step 1: Send a mass email to the SUTD interest groups and clubs, with this [DiscoverSUTD Event Proposal Submission by clubs and interest groups Tally form link](https://tally.so/r/n9qB0E)  
   <img src="https://tse4.mm.bing.net/th?id=OIP._p_mtE51iPbuFkDKjzL3oQHaHa&pid=Api&P=0&h=180" width="50" height="50">
 
 - Step 2: Whenever a SUTD interest groups and clubs submit an event proposal, the event details will be automatically added to the 'All Events' sheet in the [DiscoverSUTD Event Database/Google Sheets for Event Approval/Disapproval by OSA]()  
@@ -73,12 +73,12 @@ video demo here
   **IMPORTANT NOTES FOR STEP 4:**
   - Zapier is designed to detect new rows in Google Sheets, but it's important to understand that Zapier detects new rows based on their addition to the sheet, not on their content. Deleting and re-entering data in the same row won't trigger the automation process because Zapier tracks rows by their unique IDs, which don't change when you modify the content. BASICALLY, PLEASE DO NOT DELETE ANY ROWS ONCE IT IS ADDED INTO THE GOOGLE SHEETS! YOU CAN JUST ERASE THAT UPLOADED EVENT IN THE [DiscoverSUTD Event Publishing Notion Calender to the general SUTD student body](https://www.notion.so/discoversutd/DSUTD2024-8b5b48bb985b4e9abf1979ca635ea890) AS DELETING AND RE-ENTERING DATA IN THE SAME ROW WON'T TRIGGER THE AUTOMATION PROCESS!
 
-  - ALSO, PLEASE BE VERY SURE WHEN YOU ADD AN APPROVED EVENT IN THE 'APPROVED EVENTS' SHEET AS ONCE THE EVENT DETAILS OF AN APPROVED EVENT IS ADDED, ITS DETAILS WILL BE AUTOMATICALLY UPDATED TO THE NOTION CALENDER (ITS A NON REVERSIBLE PROCESS, AND YOU MIGHT NEED TO MODIFY THAT APPROVED EVENT MANUALLY IN THE [DiscoverSUTD Event Publishing Notion Calender to the general SUTD student body](https://www.notion.so/discoversutd/DSUTD2024-8b5b48bb985b4e9abf1979ca635ea890) LINK IF YOU WANT TO MAKE ANY CHANGES!
+  - ALSO, PLEASE BE VERY SURE WHEN YOU ADD AN APPROVED EVENT IN THE 'APPROVED EVENTS' SHEET AS ONCE THE EVENT DETAILS OF AN APPROVED EVENT IS ADDED, ITS DETAILS WILL BE AUTOMATICALLY UPDATED TO THE NOTION CALENDER (ITS A NON-REVERSIBLE PROCESS, AND YOU MIGHT NEED TO MODIFY THAT APPROVED EVENT MANUALLY IN THE [DiscoverSUTD Event Publishing Notion Calender to the general SUTD student body](https://www.notion.so/discoversutd/DSUTD2024-8b5b48bb985b4e9abf1979ca635ea890) LINK IF YOU WANT TO MAKE ANY CHANGES!
 
 - Step 5: Once the event details of the approved events are transferred to the 'Approved Events sheet in the [DiscoverSUTD Event Database/Google Sheets for Event Approval/Disapproval by OSA](), the event details (including the date, time, location, sign up form, etc.) will be automatically updated to this [DiscoverSUTD Event Publishing Notion Calender to the general SUTD student body](https://www.notion.so/discoversutd/DSUTD2024-8b5b48bb985b4e9abf1979ca635ea890) link (this uploading process might take 3 to 15 minutes)  
 <img src="https://2.bp.blogspot.com/-hBfU2YnPnuc/WimJErMCwKI/AAAAAAAADrg/sWP4nS1jSB0toeYCa0KXSsfuFal1ZMgGQCLcBGAs/s1600/google-sheets-icon.png" width="50" height="50"> -> [![My Skills](https://skillicons.dev/icons?i=notion)](https://skillicons.dev) 
 
-- Step 6: Send another mass email to the general SUTD student body, with this DiscoverSUTD Event Publishing Notion Calender to the general SUTD student body [link](https://www.notion.so/discoversutd/DSUTD2024-8b5b48bb985b4e9abf1979ca635ea890)  
+- Step 6: Send another mass email to the general SUTD student body, with this [DiscoverSUTD Event Publishing Notion Calender to the general SUTD student body link](https://www.notion.so/discoversutd/DSUTD2024-8b5b48bb985b4e9abf1979ca635ea890)  
   [![My Skills](https://skillicons.dev/icons?i=notion)](https://skillicons.dev) 
 
 - Step 7: Once DiscoverSUTD is over, please remember to erase all the data in the 'All Events' sheet of the [DiscoverSUTD Event Database/Google Sheets for Event Approval/Disapproval by OSA](), and the [DiscoverSUTD Event Publishing Notion Calender to the general SUTD student body](https://www.notion.so/discoversutd/DSUTD2024-8b5b48bb985b4e9abf1979ca635ea890)'s database **(Please leave the 'Approved Events' sheet of the [DiscoverSUTD Event Database/Google Sheets for Event Approval/Disapproval by OSA]() as it is!!)**. This step is to reset the entire DiscoverSUTD Event Proposal Submission, Event Approval, and Event Publishing Automation Process for the next year of DiscoverSUTD planning committee to use!
