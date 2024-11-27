@@ -91,7 +91,7 @@ If there is any queries on this SUTD's DiscoverSUTD Event Proposal Submission, E
 
 <br>
 
-Limitations of this DiscoverSUTD Event Proposal Submission Event Approval and Event Publishing Automation Process:
+## Limitations of this DiscoverSUTD Event Proposal Submission Event Approval and Event Publishing Automation Process:
 - When I did the [Zapier](https://zapier.com/), I was on the free plan (I didn't want to pay for subscription), which has a limit of maximum 2 zap chains. Hence, the design of the automation process had to work around the limit of maximum 2 zap chains, by leveraging the unlimited amount of zaps that can be published (which explains why I had 5 zap links for this automation process)
 - The free plan of [Zapier](https://zapier.com/) also has a limit of 100 tasks per zap, which I forgot to factor in until one day when the number of tasks (which is the number of Tally form event proposals received) exceeded 100, causing the automation process to fail and some of the event proposals to not be updated in the [Google sheets](https://workspace.google.com/intl/en_sg/products/sheets/), which was shown as 'Task Failed: Exceeded Number of Tasks' in the zaps in [Zapier](https://zapier.com/). Hence, I had to manually input these event proposals that the automation process missed in the [Google sheets](https://workspace.google.com/intl/en_sg/products/sheets/) which was an exhausting task.
 (I did run into problems of [Zapier](https://zapier.com/) exceeding the limit and cause some of rhe event proposals to not be submitted and had to do it manually myself... what a nightmare... so make sure you keep track! and this automated process will only work if there is less than a 100 actions per month!)
