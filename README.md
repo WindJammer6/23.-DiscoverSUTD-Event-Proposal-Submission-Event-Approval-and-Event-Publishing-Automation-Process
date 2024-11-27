@@ -60,7 +60,7 @@ Here are the important links:
 video demo here
 
 
-- Step 1: Send a mass email to the SUTD interest groups and clubs, with this [DiscoverSUTD Event Proposal Submission by clubs and interest groups Tally form](https://tally.so/r/n9qB0E) link  
+- Step 1: Send a mass email to the SUTD interest groups and clubs, with this DiscoverSUTD Event Proposal Submission by clubs and interest groups Tally form [link](https://tally.so/r/n9qB0E)  
   <img src="https://tse4.mm.bing.net/th?id=OIP._p_mtE51iPbuFkDKjzL3oQHaHa&pid=Api&P=0&h=180" width="50" height="50">
 
 - Step 2: Whenever a SUTD interest groups and clubs submit an event proposal, the event details will be automatically added to the 'All Events' sheet in the [DiscoverSUTD Event Database/Google Sheets for Event Approval/Disapproval by OSA]()  
