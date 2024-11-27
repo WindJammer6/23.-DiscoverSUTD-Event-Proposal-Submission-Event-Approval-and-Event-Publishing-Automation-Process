@@ -64,7 +64,7 @@ video demo here
   <img src="https://tse4.mm.bing.net/th?id=OIP._p_mtE51iPbuFkDKjzL3oQHaHa&pid=Api&P=0&h=180" width="50" height="50">
 
 - Step 2: Whenever a SUTD interest groups and clubs submit an event proposal, the event details will be automatically added to the 'All Events' sheet in the [DiscoverSUTD Event Database/Google Sheets for Event Approval/Disapproval by OSA]()  
-<img src="https://tse4.mm.bing.net/th?id=OIP._p_mtE51iPbuFkDKjzL3oQHaHa&pid=Api&P=0&h=180" width="50" height="50"> -> <img src="https://2.bp.blogspot.com/-hBfU2YnPnuc/WimJErMCwKI/AAAAAAAADrg/sWP4nS1jSB0toeYCa0KXSsfuFal1ZMgGQCLcBGAs/s1600/google-sheets-icon.png" width="50" height="50">
+<img src="https://tse4.mm.bing.net/th?id=OIP._p_mtE51iPbuFkDKjzL3oQHaHa&pid=Api&P=0&h=180" width="50" height="50"> -> <img src="https://2.bp.blogspot.com/-hBfU2YnPnuc/WimJErMCwKI/AAAAAAAADrg/sWP4nS1jSB0toeYCa0KXSsfuFal1ZMgGQCLcBGAs/s1600/google-sheets-icon.png" width="50" height="50"> via <img src="https://cdn.freebiesupply.com/logos/large/2x/zapier-logo-png-transparent.png" width="50" height="50">
 
 - Step 3: (To be done by SUTD OSA) There is a column in the 'All Events' sheet in the  [DiscoverSUTD Event Database/Google Sheets for Event Approval/Disapproval by OSA](), with the header 'Approved/Not approved', which SUTD OSA will select either the option 'Approved' or 'Not approved' after vetting through the event proposal details. There is also another column in the 'All Events' sheet in the [DiscoverSUTD Event Database/Google Sheets for Event Approval/Disapproval by OSA]() with the header 'Reason (if Not Approved)', which SUTD OSA can put a reasoning for not approving a particular event proposal.
 
@@ -76,9 +76,9 @@ video demo here
   - ALSO, PLEASE BE VERY SURE WHEN YOU ADD AN APPROVED EVENT IN THE 'APPROVED EVENTS' SHEET AS ONCE THE EVENT DETAILS OF AN APPROVED EVENT IS ADDED, ITS DETAILS WILL BE AUTOMATICALLY UPDATED TO THE NOTION CALENDER (ITS A NON-REVERSIBLE PROCESS, AND YOU MIGHT NEED TO MODIFY THAT APPROVED EVENT MANUALLY IN THE [DiscoverSUTD Event Publishing Notion Calender to the general SUTD student body](https://www.notion.so/discoversutd/DSUTD2024-8b5b48bb985b4e9abf1979ca635ea890) LINK IF YOU WANT TO MAKE ANY CHANGES!
 
 - Step 5: Once the event details of the approved events are transferred to the 'Approved Events sheet in the [DiscoverSUTD Event Database/Google Sheets for Event Approval/Disapproval by OSA](), the event details (including the date, time, location, sign up form, etc.) will be automatically updated to this [DiscoverSUTD Event Publishing Notion Calender to the general SUTD student body](https://www.notion.so/discoversutd/DSUTD2024-8b5b48bb985b4e9abf1979ca635ea890) link (this uploading process might take 3 to 15 minutes)  
-<img src="https://2.bp.blogspot.com/-hBfU2YnPnuc/WimJErMCwKI/AAAAAAAADrg/sWP4nS1jSB0toeYCa0KXSsfuFal1ZMgGQCLcBGAs/s1600/google-sheets-icon.png" width="50" height="50"> -> [![My Skills](https://skillicons.dev/icons?i=notion)](https://skillicons.dev) 
+<img src="https://2.bp.blogspot.com/-hBfU2YnPnuc/WimJErMCwKI/AAAAAAAADrg/sWP4nS1jSB0toeYCa0KXSsfuFal1ZMgGQCLcBGAs/s1600/google-sheets-icon.png" width="50" height="50"> -> [![My Skills](https://skillicons.dev/icons?i=notion)](https://skillicons.dev) via <img src="https://cdn.freebiesupply.com/logos/large/2x/zapier-logo-png-transparent.png" width="50" height="50">
 
-- Step 6: Send another mass email to the general SUTD student body, with this [DiscoverSUTD Event Publishing Notion Calender to the general SUTD student body link](https://www.notion.so/discoversutd/DSUTD2024-8b5b48bb985b4e9abf1979ca635ea890)  
+- Step 6: Send another mass email to the general SUTD student body, with this [DiscoverSUTD Event Publishing Notion Calender to the general SUTD student body link](https://www.notion.so/discoversutd/DSUTD2024-8b5b48bb985b4e9abf1979ca635ea890) to publicise the available club and interest group events that will be happening all around SUTD during DiscoverSUTD to the general SUTD student body!
   [![My Skills](https://skillicons.dev/icons?i=notion)](https://skillicons.dev) 
 
 - Step 7: Once DiscoverSUTD is over, please remember to erase all the data in the 'All Events' sheet of the [DiscoverSUTD Event Database/Google Sheets for Event Approval/Disapproval by OSA](), and the [DiscoverSUTD Event Publishing Notion Calender to the general SUTD student body](https://www.notion.so/discoversutd/DSUTD2024-8b5b48bb985b4e9abf1979ca635ea890)'s database **(Please leave the 'Approved Events' sheet of the [DiscoverSUTD Event Database/Google Sheets for Event Approval/Disapproval by OSA]() as it is!!)**. This step is to reset the entire DiscoverSUTD Event Proposal Submission, Event Approval, and Event Publishing Automation Process for the next year of DiscoverSUTD planning committee to use!
@@ -91,18 +91,20 @@ If there is any queries on this SUTD's DiscoverSUTD Event Proposal Submission, E
 
 <br>
 
-I was using the Zapier free plan (didn't want to pay for it), which has the following plan:  
-(I did run into problems of Zapier exceeding the limit and cause some of rhe event proposals to not be submitted and had to do it manually myself... what a nightmare... so make sure you keep track! and this automated process will only work if there is less than a 100 actions per month!)
+Limitations of this DiscoverSUTD Event Proposal Submission Event Approval and Event Publishing Automation Process:
+- When I did the [Zapier](https://zapier.com/), I was on the free plan (I didn't want to pay for subscription), which has a limit of maximum 2 zap chains. Hence, the design of the automation process had to work around the limit of maximum 2 zap chains, by leveraging the unlimited amount of zaps that can be published (which explains why I had 5 zap links for this automation process)
+- The free plan of [Zapier](https://zapier.com/) also has a limit of 100 tasks per zap, which I forgot to factor in until one day when the number of tasks (which is the number of Tally form event proposals received) exceeded 100, causing the automation process to fail and some of the event proposals to not be updated in the [Google sheets](https://workspace.google.com/intl/en_sg/products/sheets/), which was shown as 'Task Failed: Exceeded Number of Tasks' in the zaps in [Zapier](https://zapier.com/). Hence, I had to manually input these event proposals that the automation process missed in the [Google sheets](https://workspace.google.com/intl/en_sg/products/sheets/) which was an exhausting task.
+(I did run into problems of [Zapier](https://zapier.com/) exceeding the limit and cause some of rhe event proposals to not be submitted and had to do it manually myself... what a nightmare... so make sure you keep track! and this automated process will only work if there is less than a 100 actions per month!)
 
-Zapier's run limits vary depending on the subscription plan you have. As of my last update:
-
+Here is [Zapier](https://zapier.com/)'s task run limit per zap depending on the subscription plan you have. As of the last update I checked:
+```
 - **Free Plan**: 100 tasks per month
 - **Starter Plan**: 750 tasks per month
 - **Professional Plan**: 2,000 tasks per month
 - **Team Plan**: 50,000 tasks per month
 - **Company Plan**: 100,000 tasks per month
-
-These limits are subject to change, so I recommend checking Zapier's official website for the most up-to-date information. 
+```
+These limits are subject to change, so I recommend checking [Zapier](https://zapier.com/)'s official website for the most up-to-date information. 
 
 Luckily, even with the free plan it resets every month, so when I exceeded the number of actions per month I just had to keep manually updating until the next update where I got 100 more free actions and the automation process worked again...
 
