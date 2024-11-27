@@ -91,23 +91,21 @@ If there is any queries on this SUTD's DiscoverSUTD Event Proposal Submission, E
 
 <br>
 
-## Limitations of this DiscoverSUTD Event Proposal Submission Event Approval and Event Publishing Automation Process:
+## Limitations of the DiscoverSUTD Event Proposal Submission Event Approval and Event Publishing Automation Process:
 - When I did the [Zapier](https://zapier.com/), I was on the free plan (I didn't want to pay for subscription), which has a limit of maximum 2 zap chains. Hence, the design of the automation process had to work around the limit of maximum 2 zap chains, by leveraging the unlimited amount of zaps that can be published (which explains why I had 5 zap links for this automation process)
-- The free plan of [Zapier](https://zapier.com/) also has a limit of 100 tasks per zap, which I forgot to factor in until one day when the number of tasks (which is the number of Tally form event proposals received) exceeded 100, causing the automation process to fail and some of the event proposals to not be updated in the [Google sheets](https://workspace.google.com/intl/en_sg/products/sheets/), which was shown as 'Task Failed: Exceeded Number of Tasks' in the zaps in [Zapier](https://zapier.com/). Hence, I had to manually input these event proposals that the automation process missed in the [Google sheets](https://workspace.google.com/intl/en_sg/products/sheets/) which was an exhausting task.
-(I did run into problems of [Zapier](https://zapier.com/) exceeding the limit and cause some of rhe event proposals to not be submitted and had to do it manually myself... what a nightmare... so make sure you keep track! and this automated process will only work if there is less than a 100 actions per month!)
+- The free plan of [Zapier](https://zapier.com/) also has a limit of 100 tasks per zap, which I forgot to factor in until one day when the number of tasks (which is the number of Tally form event proposals received) exceeded 100, causing the automation process to fail and some of the event proposals to not be updated in the [Google sheets](https://workspace.google.com/intl/en_sg/products/sheets/), which was shown as 'Task Failed: Exceeded Number of Tasks' in the zaps in [Zapier](https://zapier.com/). Hence, I had to manually input these event proposals that the automation process missed in the [Google sheets](https://workspace.google.com/intl/en_sg/products/sheets/) which was an exhausting task. (So remember to keep track of the number of tasks/event proposals that are being submitted! Make sure they don't exceed 100 tasks per zap!)
 
-Here is [Zapier](https://zapier.com/)'s task run limit per zap depending on the subscription plan you have. As of the last update I checked:
-```
-- **Free Plan**: 100 tasks per month
-- **Starter Plan**: 750 tasks per month
-- **Professional Plan**: 2,000 tasks per month
-- **Team Plan**: 50,000 tasks per month
-- **Company Plan**: 100,000 tasks per month
-```
-These limits are subject to change, so I recommend checking [Zapier](https://zapier.com/)'s official website for the most up-to-date information. 
+Fortunately, even with the free plan the limit of 100 tasks per zap resets every month, so for my case, when the number of tasks/event proposals exceeded the number of tasks per month, I just had to keep manually updating the event proposals until the next reset until the limit of 100 tasks per zap resets and the automation process to work again...
 
-Luckily, even with the free plan it resets every month, so when I exceeded the number of actions per month I just had to keep manually updating until the next update where I got 100 more free actions and the automation process worked again...
+  Here is [Zapier](https://zapier.com/)'s task run limit per zap depending on the subscription plan you have. As of the last update I checked:
+  ```
+  - **Free Plan**: 100 tasks per month
+  - **Starter Plan**: 750 tasks per month
+  - **Professional Plan**: 2,000 tasks per month
+  - **Team Plan**: 50,000 tasks per month
+  - **Company Plan**: 100,000 tasks per month
+  ```
+  These limits are subject to change, so I recommend checking [Zapier](https://zapier.com/)'s official website here: https://zapier.com/pricing?utm_source=google&utm_medium=cpc&utm_campaign=gaw-row-nua-evr-search_brand_alldev_prospecting_long-tail_d2-ads&utm_term=zapier%20plans&utm_content=9066672&utm_ads_campaign_id=20557914454&utm_ads_adset_id=148745687490&utm_ads_ad_id=673971565677&gad_source=1&gclid=Cj0KCQjwz7C2BhDkARIsAA_SZKZzYN3tgB8lokB0A7jICgdcD-mXzIyIQQKR3FNVFIzg8cPc7ygOAPwaAv14EALw_wcB ([Zapier](https://zapier.com/)'s pricing and rates) for the most up-to-date information. 
 
-Source: https://zapier.com/pricing?utm_source=google&utm_medium=cpc&utm_campaign=gaw-row-nua-evr-search_brand_alldev_prospecting_long-tail_d2-ads&utm_term=zapier%20plans&utm_content=9066672&utm_ads_campaign_id=20557914454&utm_ads_adset_id=148745687490&utm_ads_ad_id=673971565677&gad_source=1&gclid=Cj0KCQjwz7C2BhDkARIsAA_SZKZzYN3tgB8lokB0A7jICgdcD-mXzIyIQQKR3FNVFIzg8cPc7ygOAPwaAv14EALw_wcB (Zapier) (Zapier's pricing and rates)
 
 rmb to 'lock' the database somehow after it's done? to prevent anyone from messing with it especially the column headers? and also need to remind them not to tamper and edit the Tally form. maybe set it as the first thing to mention in this repo，which is to not mess with any of the files if they don't know Zapier and what they are doing!!
