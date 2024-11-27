@@ -31,7 +31,7 @@ But with this SUTD's DiscoverSUTD Event Proposal Submission, Event Approval, and
 <br>
 
 ## How to use this SUTD's DiscoverSUTD Event Proposal Submission, Event Approval, and Event Publishing Automation Process?
-Here's the important part. Using this automation process requires some knowledge of Zapier, and Notion's calender for debugging purposes. Also if edits are made on the Tally form, Google Sheet or Notion's calender, corresponding edits on Zapier's zaps must be made as well, which require some knowledge in how Zapier, works.
+Here's the important part. Using this automation process requires some knowledge of Zapier and Notion's calender for debugging purposes. Also if edits are made on the Tally form, Google Sheet or Notion's calender, corresponding edits on Zapier's zaps must be made as well, which require some knowledge in how Zapier works.
 
 Here are the important links:  
 - <img src="https://tse4.mm.bing.net/th?id=OIP._p_mtE51iPbuFkDKjzL3oQHaHa&pid=Api&P=0&h=180" width="50" height="50"> Event Proposal Submission by clubs and interest groups Tally form: https://tally.so/r/n9qB0E  
