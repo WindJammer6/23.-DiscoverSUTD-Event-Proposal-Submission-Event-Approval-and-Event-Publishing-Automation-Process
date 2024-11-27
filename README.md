@@ -39,8 +39,10 @@ Here are the important links:
 
 - <img src="https://2.bp.blogspot.com/-hBfU2YnPnuc/WimJErMCwKI/AAAAAAAADrg/sWP4nS1jSB0toeYCa0KXSsfuFal1ZMgGQCLcBGAs/s1600/google-sheets-icon.png" width="50" height="50"> Event Approval/Disapproval (by OSA) Database/Google Sheets: https://docs.google.com/spreadsheets/d/19HqnLRRmdiZY0t3JtomK-DJ5lB5C2w9WwQqat5UyV4E/edit?gid=1411928349#gid=1411928349
   (there are 2 sheets in this Google Sheets, titled 'All Events' and 'Approved Events')
+  
 - [![My Skills](https://skillicons.dev/icons?i=notion)](https://skillicons.dev) Event Publishing Notion Calender to the general SUTD student body: https://www.notion.so/discoversutd/DSUTD2024-8b5b48bb985b4e9abf1979ca635ea890  
   (this link will be shared to the general SUTD student body, so they know when are the approved events during DiscoverSUTD)
+  
 - <img src="https://cdn.freebiesupply.com/logos/large/2x/zapier-logo-png-transparent.png" width="50" height="50"> Zapier Automation workflow:
   - https://zapier.com/editor/244057241/published (titled: 'ROOT DSUTD (updating approved events from Google Sheets to Notion')
   - https://zapier.com/editor/240537822/published (titled: 'ROOT DSUTD (updating Tally form details to Google sheet) (session 1)')
